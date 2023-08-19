@@ -72,6 +72,9 @@ $ sudo systemctl start bookmanagement
     Attach the Application Load Balancer to this Auto-Scaling Group.
     For the bonus requirement, go to the "Scaling Policies" tab of the Auto-Scaling Group, click "Add policy", and set the target to 60% for the Average CPU Utilization.
 
+    ![Screenshot from 2023-08-19 19-22-40](https://github.com/MKOdeh2024/AWS-Project-/assets/137823341/36495f31-eab1-4c4a-b3d2-c257486c8137)
+
+
 ## 3. Test the Deployment
 
     After everything is set up, access the application by using the DNS name of your Load Balancer.
