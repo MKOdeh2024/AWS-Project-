@@ -73,11 +73,11 @@ $ sudo systemctl start bookmanagement
     For the bonus requirement, go to the "Scaling Policies" tab of the Auto-Scaling Group, click "Add policy", and set the target to 60% for the Average CPU Utilization.
 
 (![Screenshot from 2023-08-19 19-22-40](https://github.com/MKOdeh2024/AWS-Project-/assets/137823341/36495f31-eab1-4c4a-b3d2-c257486c8137)) 
-(![Screenshot from 2023-08-19 19-23-26](https://github.com/MKOdeh2024/AWS-Project-/assets/137823341/a1cb66ee-c73e-4e2f-947d-325c7999011b)
-(![Screenshot from 2023-08-19 19-23-34](https://github.com/MKOdeh2024/AWS-Project-/assets/137823341/1cf0e99c-a9a7-444a-b137-2c149b289c5a)
-(![Screenshot from 2023-08-19 19-23-42](https://github.com/MKOdeh2024/AWS-Project-/assets/137823341/26485965-cbf6-441f-b574-359a0da3c05d)
-(![Screenshot from 2023-08-19 19-24-19](https://github.com/MKOdeh2024/AWS-Project-/assets/137823341/4606aebe-c528-4f93-bbe7-6a76bc3cf5fd)
-(![Screenshot from 2023-08-19 19-24-34](https://github.com/MKOdeh2024/AWS-Project-/assets/137823341/295d6bfe-5865-41ae-b958-6bd979d2baf2)
+(![Screenshot from 2023-08-19 19-23-26](https://github.com/MKOdeh2024/AWS-Project-/assets/137823341/a1cb66ee-c73e-4e2f-947d-325c7999011b))
+(![Screenshot from 2023-08-19 19-23-34](https://github.com/MKOdeh2024/AWS-Project-/assets/137823341/1cf0e99c-a9a7-444a-b137-2c149b289c5a))
+(![Screenshot from 2023-08-19 19-23-42](https://github.com/MKOdeh2024/AWS-Project-/assets/137823341/26485965-cbf6-441f-b574-359a0da3c05d))
+(![Screenshot from 2023-08-19 19-24-19](https://github.com/MKOdeh2024/AWS-Project-/assets/137823341/4606aebe-c528-4f93-bbe7-6a76bc3cf5fd))
+(![Screenshot from 2023-08-19 19-24-34](https://github.com/MKOdeh2024/AWS-Project-/assets/137823341/295d6bfe-5865-41ae-b958-6bd979d2baf2))
 
 
 ## 3. Test the Deployment
